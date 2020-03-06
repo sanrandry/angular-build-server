@@ -1,3 +1,5 @@
 npm install
 copy you build file in a dist directory
-make you sure to have an index.html in you build file
+make you sure to have an index.html in your build file
+run npm start to start the server on port 3001
+if you like to change the port change it on the index file
